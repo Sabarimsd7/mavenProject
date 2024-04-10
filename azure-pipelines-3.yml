@@ -1,0 +1,5 @@
+
+pool:devops_sh
+
+steps:
+- script:hostname
