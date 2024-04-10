@@ -1,0 +1,8 @@
+
+
+pool:devops_sh
+
+
+steps:
+- script: echo Hello
+  
